@@ -110,16 +110,16 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorSampaio&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSampaio&theme=dracula&hide_border=true&layout=compact&langs_count=10&count_private=true" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorHCSampaio&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHCSampaio&theme=dracula&hide_border=true&layout=compact&langs_count=10&count_private=true" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HenriqueCastro18&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=VictorHCSampaio&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueCastro18&theme=dracula&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorHCSampaio&theme=dracula&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 ###
